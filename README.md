@@ -1,6 +1,6 @@
 'Even tot hier' presenteerde zaterdag aan 3 miljoen kijkers dat een coalitie van alle linkse partijen ('kneiterlinks') eensgezinder zou zijn dan een centrumlinkse of -rechtse coalitie. Maar klopt dat eigenlijk wel?
 
-Het programma keek naar hoe vaak partijen hetzelfde stemden in de afgelopen kabinetsperiode. Zo stemden D66 en CDA in 73% van de gevallen hetzelfde. 
+Het programma keek naar hoe vaak partijen hetzelfde stemden in de afgelopen kabinetsperiode. Zo stemden D66 en CDA in 73% van de gevallen hetzelfde. https://partijgedrag.nl/party-likeness 
 
 Voor coalities met meer dan twee partijen namen ze het gemiddelde van alle combinaties van twee partijen in die coalitie. Dit noemden ze de IPO-score: 
 
@@ -23,4 +23,3 @@ Deze analyse weegt gemakshalve elke stemming hetzelfde, maar in de praktijk vind
 Bronnen:
 - ruwe data en analyse: https://github.com/BoudewijnKlijn/tweede_kamer_stemgedrag
 - aflevering: https://npo.nl/start/serie/even-tot-hier/afleveringen/seizoen-14/even-tot-hier_92/afspelen
-- https://partijgedrag.nl/party-likeness 
