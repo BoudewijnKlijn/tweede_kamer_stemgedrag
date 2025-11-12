@@ -21,7 +21,6 @@ De centrumlinkse coalitie heeft wel nog steeds vaker hetzelfde gestemd dan de ce
 Deze analyse weegt gemakshalve elke stemming hetzelfde, maar in de praktijk vinden partijen bepaalde onderwerpen belangrijker. 
 
 Bronnen:
+- ruwe data en analyse: https://github.com/BoudewijnKlijn/tweede_kamer_stemgedrag
 - aflevering: https://npo.nl/start/serie/even-tot-hier/afleveringen/seizoen-14/even-tot-hier_92/afspelen
-- https://partijgedrag.nl/party-likeness
-- ruwe data: 
-- analyse: 
+- https://partijgedrag.nl/party-likeness 
