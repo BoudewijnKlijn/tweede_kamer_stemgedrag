@@ -1,0 +1,16 @@
+﻿,BoerBurgerBeweging,Christen-Democratisch Appèl,ChristenUnie,Democraten 66,DENK,Forum voor Democratie,GroenLinks-PvdA,JA21,Nieuw Sociaal Contract,Partij voor de Dieren,Partij voor de Vrijheid,Socialistische Partij,Staatkundig Gereformeerde Partij,Volkspartij voor Vrijheid en Democratie,Volt
+BoerBurgerBeweging,1,0.72,0.67,0.57,0.49,0.64,0.5,0.79,0.76,0.43,0.75,0.49,0.77,0.8,0.52
+Christen-Democratisch Appèl,0.72,1,0.78,0.73,0.6,0.53,0.65,0.67,0.78,0.57,0.58,0.6,0.75,0.77,0.67
+ChristenUnie,0.67,0.78,1,0.78,0.7,0.52,0.76,0.64,0.78,0.68,0.53,0.72,0.75,0.68,0.77
+Democraten 66,0.57,0.73,0.78,1,0.75,0.44,0.85,0.56,0.71,0.76,0.44,0.77,0.64,0.63,0.89
+DENK,0.49,0.6,0.7,0.75,1,0.49,0.82,0.48,0.6,0.81,0.42,0.83,0.55,0.49,0.8
+Forum voor Democratie,0.64,0.53,0.52,0.44,0.49,1,0.43,0.69,0.55,0.41,0.68,0.47,0.62,0.56,0.43
+GroenLinks-PvdA,0.5,0.65,0.76,0.85,0.82,0.43,1,0.49,0.64,0.87,0.39,0.86,0.57,0.53,0.9
+JA21,0.79,0.67,0.64,0.56,0.48,0.69,0.49,1,0.68,0.42,0.75,0.49,0.75,0.74,0.51
+Nieuw Sociaal Contract,0.76,0.78,0.78,0.71,0.6,0.55,0.64,0.68,1,0.57,0.62,0.62,0.75,0.79,0.66
+Partij voor de Dieren,0.43,0.57,0.68,0.76,0.81,0.41,0.87,0.42,0.57,1,0.36,0.86,0.5,0.45,0.83
+Partij voor de Vrijheid,0.75,0.58,0.53,0.44,0.42,0.68,0.39,0.75,0.62,0.36,1,0.41,0.66,0.69,0.39
+Socialistische Partij,0.49,0.6,0.72,0.77,0.83,0.47,0.86,0.49,0.62,0.86,0.41,1,0.55,0.49,0.81
+Staatkundig Gereformeerde Partij,0.77,0.75,0.75,0.64,0.55,0.62,0.57,0.75,0.75,0.5,0.66,0.55,1,0.74,0.59
+Volkspartij voor Vrijheid en Democratie,0.8,0.77,0.68,0.63,0.49,0.56,0.53,0.74,0.79,0.45,0.69,0.49,0.74,1,0.56
+Volt,0.52,0.67,0.77,0.89,0.8,0.43,0.9,0.51,0.66,0.83,0.39,0.81,0.59,0.56,1
